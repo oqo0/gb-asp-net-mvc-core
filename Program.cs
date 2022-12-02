@@ -1,3 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿namespace gb;
 
-Console.WriteLine("Hello, World!");
+class Program
+{
+    public static void Main()
+    {
+        
+    }
+}
